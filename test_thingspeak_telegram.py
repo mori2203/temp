@@ -2,11 +2,11 @@ import requests
 import time
 import random
 
-THINGSPEAK_API_KEY = "X6PKV4KQCRUDUIAQ"
+THINGSPEAK_API_KEY = "aaaaaaaaaaaaaaaaa"
 THINGSPEAK_URL = "https://api.thingspeak.com/update"
 
-BOT_TOKEN = "7700164579:AAGn-SiojOmPQha2TGOQLY3zLAXkNOJKDOQ"
-CHAT_ID = "5699715536"
+BOT_TOKEN = "aaaaaaaaaaaaaaaaaaaaaaaaaaa"
+CHAT_ID = "1111111111"
 
 # 허용 범위 설정
 TEMP_MIN = 20.0
