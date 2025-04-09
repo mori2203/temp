@@ -2,13 +2,13 @@ import Adafruit_DHT
 import requests
 import time
 
-DHT_SENSOR = Adafruit_DHT.DHT22  # 또는 DHT11
+DHT_SENSOR = Adafruit_DHT.DHT22  
 DHT_PIN = 4  # GPIO4
 
-THINGSPEAK_API_KEY = "X6PKV4KQCRUDUIAQ"
+THINGSPEAK_API_KEY = "aaaaaaaaaaa"
 THINGSPEAK_URL = "https://api.thingspeak.com/update"
 
-BOT_TOKEN = "7700164579:AAGn-SiojOmPQha2TGOQLY3zLAXkNOJKDOQ"
+BOT_TOKEN = "aaaaaaaaaaaaaaaaaaaaaaaa"
 CHAT_ID = "5699715536"
 
 TEMP_MIN = 20.0
